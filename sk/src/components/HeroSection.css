@@ -34,6 +34,7 @@ video {
 
 .hero-btns {
   margin-top: 32px;
+  flex-direction: row;
 }
 
 .hero-btns .btn {

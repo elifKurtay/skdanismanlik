@@ -6,7 +6,7 @@ import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 
 function Footer() {
   return (
-    <div className='footer-container'>
+    <div className='footer-container' id="footer">
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
           Hizmetlerimizden yararlanmak için detaylı bilgi alın.
