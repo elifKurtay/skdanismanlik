@@ -26,12 +26,12 @@ function Navbar() {
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+            <Link to="/services" className="nav-links" onClick={closeMobileMenu}>
               Hizmetlerimiz
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+            <Link to="/contact" className="nav-links" onClick={closeMobileMenu}>
               İletişim
             </Link>
           </li>
