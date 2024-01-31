@@ -17,7 +17,7 @@
 }
 
 .services {
-  background-image: url('../public/images/img-2.jpg');
+  background-image: url('../public/images/logo192.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@
 }
 
 .products {
-  background-image: url('../public/images/img-1.jpg');
+  background-image: url('../public/images/logo512.png');
   background-position: center;
   background-repeat: no-repeat;
   color: #fff;
@@ -34,7 +34,7 @@
 }
 
 .contact {
-  background-image: url('../public/images/img-8.jpg');
+  background-image: url('../public/images/selma.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
