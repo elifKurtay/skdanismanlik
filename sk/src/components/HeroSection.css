@@ -7,7 +7,7 @@ video {
 }
 
 .hero-container {
-  /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
+  background: url('../../public/images/noah-buscher-x8ZStukS2PM-unsplash.jpg') center center/cover no-repeat;
   height: 100vh;
   width: 100%;
   display: flex;
@@ -30,6 +30,12 @@ video {
   font-size: 32px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
   'Lucida Sans', Arial, sans-serif;
+}
+
+.hero-sub {
+  margin-top: 8px;
+  font-size: 24px;
+  color: darkgrey;
 }
 
 .hero-btns {

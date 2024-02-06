@@ -27,6 +27,6 @@ export const HAKKIMDA = {
 
 export const ANASAYFA = {
     title: "SK Danışmanlık",
-    owner: "by Dr. Selma Kurtay,",
-    second: "Serbest Muhasebeci Mali Müşavir (SMMM), Bağımsız Denetçi, e-SÜRGEM Eğitmeni, Bilirkişi"
+    owner: "by Dr. Selma Kurtay",
+    second: "SMMM, Bağımsız Denetçi, e-SÜRGEM Eğitmeni, Bilirkişi"
 }
