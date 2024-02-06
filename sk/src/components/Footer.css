@@ -30,8 +30,14 @@
 }
 
 .footer-subscription-text {
-  margin-bottom: 24px;
+  margin-bottom: 20px;
   font-size: 20px;
+}
+
+.footer-subscription-email {
+  margin-bottom: 24px;
+  font-size: 16px;
+  color: #1f98f4;
 }
 
 .footer-input {
