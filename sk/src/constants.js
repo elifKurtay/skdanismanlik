@@ -30,3 +30,11 @@ export const ANASAYFA = {
     owner: "by Dr. Selma Kurtay",
     second: "SMMM, Bağımsız Denetçi, e-SÜRGEM Eğitmeni, Bilirkişi"
 }
+
+export const NAVBAR = {
+    company: "SK Danışmanlık",
+    anasayfa: "Anasayfa",
+    hizmetler: "Hizmetlerimiz",
+    hakkimda: "Hakkımda",
+    iletisim: "İletişim"
+}
