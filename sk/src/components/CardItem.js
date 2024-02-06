@@ -9,8 +9,8 @@ function CardItem(props) {
           <figure className='cards__item__pic-wrap' data-category={props.label}>
             <img
               className='cards__item__img'
-              alt='Travel Image'
-              src={props.src}
+              alt='Category Image'
+              src={getImageSource(props.label)}
             />
           </figure>
           <div className='cards__item__info'>
@@ -20,6 +20,19 @@ function CardItem(props) {
       </li>
     </>
   );
+}
+
+function getImageSource(label) {
+  if (label === "Sustainability") {
+    return "images/sustainable.png"
+  } else if (label === "Corporate") {
+    return "images/company.png"
+  } else if (label === "Financial") {
+    return "images/budget.png"
+  } else if (label === "IT") {
+    return "images/blockchain.png"
+  }
+  return ""
 }
 
 export default CardItem;
