@@ -38,3 +38,12 @@ export const NAVBAR = {
     hakkimda: "Hakkımda",
     iletisim: "İletişim"
 }
+
+export const PAST = {
+    title: "Önceki Hizmetlerimiz",
+    sustainability: "Explore the hidden waterfall deep inside the Amazon Jungle",
+    corporate: "Travel through the Islands of Bali in a Private Cruise",
+    legal: "Set Sail in the Atlantic Ocean visiting Uncharted Waters",
+    finance: "Experience Football on Top of the Himilayan Mountains",
+    it: "Ride through the Sahara Desert on a guided camel tour"
+}

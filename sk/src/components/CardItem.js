@@ -31,6 +31,8 @@ function getImageSource(label) {
     return "images/budget.png"
   } else if (label === "IT") {
     return "images/blockchain.png"
+  } else if (label === "Legal") {
+    return "images/compliance.png"
   }
   return ""
 }

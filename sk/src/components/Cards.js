@@ -1,38 +1,39 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
+import {PAST} from "../constants";
 
 function Cards() {
   return (
     <div className='cards' id="cards">
-      <h1>Önceki Hizmetlerimiz</h1>
+      <h1>{PAST.title}</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              text={PAST.sustainability}
               label='Sustainability'
               path='/services'
             />
             <CardItem
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text={PAST.corporate}
               label='Corporate'
               path='/services'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Sustainability'
+              text={PAST.legal}
+              label='Legal'
               path='/services'
             />
             <CardItem
-              text='Experience Football on Top of the Himilayan Mountains'
+              text={PAST.finance}
               label='Financial'
               path='/services'
             />
             <CardItem
-              text='Ride through the Sahara Desert on a guided camel tour'
+              text={PAST.it}
               label='IT'
               path='/services'
             />
