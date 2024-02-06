@@ -5,6 +5,13 @@
   width: 100%;
 }
 
+.about h1 {
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+  margin-bottom: 25px;
+}
+
 .about .container {
   max-width: 1120px;
   width: 90%;
@@ -20,7 +27,8 @@
 }
 
 .about h2 {
-  font-size: 3rem;
+  font-size: 2rem;
+  color: white;
 }
 
 .about .col-2 {
