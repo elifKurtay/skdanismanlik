@@ -16,7 +16,7 @@ export const HAKKIMDA = {
         "Donec lobortis efficitur risus a pellentesque.",
     kisa: "SK Danışmanlık benim canım firmam.",
     buton: "Daha Fazla Öğren",
-    sub_title2: "Önceki Partnerler",
+    sub_title2: "Referanslar",
     description2: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at interdum velit, " +
         "et ultricies nisl. Integer fermentum justo et quam sagittis tempor. Etiam eget quam ut " +
         "metus consectetur sodales. Vivamus pellentesque eu odio in egestas. Vivamus hendrerit blandit " +
@@ -27,7 +27,7 @@ export const HAKKIMDA = {
 
 export const ANASAYFA = {
     title: "SK Danışmanlık",
-    owner: "by Dr. Selma Kurtay",
+    owner: "Dr. Selma Kurtay",
     second: "SMMM, Bağımsız Denetçi, e-SÜRGEM Eğitmeni, Bilirkişi"
 }
 
@@ -40,7 +40,7 @@ export const NAVBAR = {
 }
 
 export const PAST = {
-    title: "Önceki Hizmetlerimiz",
+    title: "Hizmetlerimiz",
     sustainability: "Explore the hidden waterfall deep inside the Amazon Jungle",
     corporate: "Travel through the Islands of Bali in a Private Cruise",
     legal: "Set Sail in the Atlantic Ocean visiting Uncharted Waters",
