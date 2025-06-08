@@ -1,6 +1,6 @@
 import React from 'react';
 import '../App.css';
-import './HeroSection.css';
+import '../visuals/HeroSection.css';
 import {ANASAYFA} from "../constants";
 
 function HeroSection() {

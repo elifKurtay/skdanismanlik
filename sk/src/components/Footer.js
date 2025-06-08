@@ -1,5 +1,5 @@
 import React from 'react';
-import './Footer.css';
+import '../visuals/Footer.css';
 import {ILETISIM} from '../constants';
 import {Link} from "react-router-dom";
 

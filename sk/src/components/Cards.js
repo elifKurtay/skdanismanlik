@@ -1,5 +1,5 @@
 import React from 'react';
-import './Cards.css';
+import '../visuals/Cards.css';
 import CardItem from './CardItem';
 import {PAST} from "../constants";
 

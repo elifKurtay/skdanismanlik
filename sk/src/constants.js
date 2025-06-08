@@ -47,3 +47,8 @@ export const PAST = {
     finance: "Experience Football on Top of the Himilayan Mountains",
     it: "Ride through the Sahara Desert on a guided camel tour"
 }
+
+export const HIZMET_0 = {
+    title: "Sürdürülebilirlik",
+    description: "Sürdürülebilirlik danışmanlığı, işletmelerin çevresel, sosyal ve ekonomik sürdürülebilirlik hedeflerine ulaşmalarına yardımcı olur. Bu hizmet, enerji verimliliği, atık yönetimi, su tasarrufu ve sürdürülebilir tedarik zinciri gibi konuları kapsar.",
+}
